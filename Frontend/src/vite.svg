@@ -1,0 +1,16 @@
+<!-- filepath: /C:/Users/User/Desktop/Digital Payment Wallet/Frontend/src/vite.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 404">
+  <defs>
+    <linearGradient id="a" x1="99.97" x2="322.1" y1="3.69" y2="375.8" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#41d1ff"/>
+      <stop offset="1" stop-color="#bd34fe"/>
+    </linearGradient>
+    <linearGradient id="b" x1="172.45" x2="236.29" y1="18.57" y2="335.95" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffea83"/>
+      <stop offset=".083" stop-color="#ffdd35"/>
+      <stop offset="1" stop-color="#ffa800"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" d="M398 0L211 402 0 78 398 0z"/>
+  <path fill="url(#b)" d="M211 402L110 154l101-135 98 135-98 248z"/>
+</svg>
